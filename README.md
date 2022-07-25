@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfaishaladiyatma
-- 👀 I’m interested in Anything, i want to improve my self in IT field
+- 👀 I’m interested in web development and JavaScript, i want to improve my self in IT field
 - 🌱 I’m currently learning GIT itself 😵
 - 📫 Please reach me on linkedin.com/in/faishaladiyatma
 
