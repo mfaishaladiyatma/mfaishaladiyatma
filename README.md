@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfaishaladiyatma
-- 👀 I’m interested in web development and JavaScript, i want to improve my self in IT field
-- 🌱 I’m currently learning GIT itself 😵
+- 👀 I’m interested in devops & blockchain
+- 🌱 I’m currently learning devops 😵
 - 📫 Please reach me on linkedin.com/in/faishaladiyatma
 
 <!---
